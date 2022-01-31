@@ -1,4 +1,4 @@
-FROM teddysun/xray
+FROM xcyberjunk/xrayheroku
 ENV TZ=Asia/Colombo
 ADD entrypoint.sh /
 RUN chmod +x /entrypoint.sh
