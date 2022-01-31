@@ -1,5 +1,5 @@
 {
-    "name": "xray-heroku",
+    "name": "xrayheroku",
     "description": "deploy xray to heroku",
     "keywords": ["xray"],
     "env": {
