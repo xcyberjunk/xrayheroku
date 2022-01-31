@@ -4,7 +4,7 @@ Click the icon above to deploy.
 
 Default Protocol : vless
 
-Default UUID: 36cfc3de-ecfd-4752-ae6f-8f0f92035143
+Default UUID: 17782aec-7d30-4b4a-bd48-62244631a96f
 
 Address: appname.herokuapp.com
 
