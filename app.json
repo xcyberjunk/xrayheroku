@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "xray UUID",
-            "value": "abd415ca-bc71-425e-ae21-f8fb3e72b280"        
+            "value": "863b488d-6b1d-4018-9736-615a866cc4d9"        
         }
     },
     "repository": "https://github.com/xcyberjunk/xrayheroku",
