@@ -4,7 +4,7 @@ Click the icon above to deploy.
 
 Default Protocol : vmess
 
-Default UUID: d47a3000-d9eb-41e8-827e-d49d446d04eb
+Default UUID: bb9166aa-0a66-4fde-ba16-a6ed79a1e8c3
 
 Address: appname.herokuapp.com
 
